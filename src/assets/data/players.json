@@ -1,0 +1,350 @@
+{
+    "players": [
+        {
+            "id": 1,
+            "name": "=Bob=",
+            "discordID": "=Bob=#6025",
+            "days": {
+                "saturday": true,
+                "sunday": true
+            },
+            "characters": [
+                {
+                    "preferred": 1,
+                    "class": "priest",
+                    "build": "sanc",
+                    "name": "Silverbob"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Arti",
+            "discordID": "Arti#1331",
+            "specialRoles": [
+                "ec"
+            ],
+            "days": {
+                "saturday": true,
+                "sunday": true
+            },
+            "characters": [
+                {
+                    "preferred": 1,
+                    "class": "monk",
+                    "build": "fisher",
+                    "name": "Der Falsche Prophet"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Caipi",
+            "discordID": "Manni#9502",
+            "specialRoles": [
+                "scout"
+            ],
+            "days": {
+                "saturday": true,
+                "sunday": true
+            },
+            "characters": [
+                {
+                    "preferred": 1,
+                    "class": "?",
+                    "build": "?",
+                    "name": "?"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "cathan",
+            "discordID": "cathan#6089",            
+            "days": {
+                "saturday": true,
+                "sunday": true
+            },
+            "characters": [
+                {
+                    "preferred": 1,
+                    "class": "?",
+                    "build": "?",
+                    "name": "?"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Clemse",
+            "discordID": "Clemse#4263",            
+            "days": {
+                "saturday": false,
+                "sunday": true
+            },
+            "characters": [
+                {
+                    "preferred": 1,
+                    "class": "?",
+                    "build": "?",
+                    "name": "?"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name": "daffy",
+            "discordID": "finduliass#4550",            
+            "days": {
+                "saturday": true,
+                "sunday": true
+            },
+            "characters": [
+                {
+                    "preferred": 1,
+                    "class": "?",
+                    "build": "?",
+                    "name": "?"
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Darki",
+            "discordID": "Darki#6821",            
+            "days": {
+                "saturday": false,
+                "sunday": true
+            },
+            "characters": [
+                {
+                    "preferred": 1,
+                    "class": "?",
+                    "build": "?",
+                    "name": "?"
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Desaster78",
+            "discordID": "Desaster78#2375",            
+            "days": {
+                "saturday": false,
+                "sunday": true
+            },
+            "characters": [
+                {
+                    "preferred": 1,
+                    "class": "?",
+                    "build": "?",
+                    "name": "?"
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "name": "Duke",
+            "discordID": "Duke#1080",            
+            "days": {
+                "saturday": true,
+                "sunday": true
+            },
+            "characters": [
+                {
+                    "preferred": 1,
+                    "class": "?",
+                    "build": "?",
+                    "name": "?"
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "name": "Einarson",
+            "discordID": "Einarson#7894",            
+            "days": {
+                "saturday": false,
+                "sunday": true
+            },
+            "characters": [
+                {
+                    "preferred": 1,
+                    "class": "?",
+                    "build": "?",
+                    "name": "?"
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "name": "feuerseele",
+            "discordID": "feuerseele#0165",            
+            "days": {
+                "saturday": true,
+                "sunday": true
+            },
+            "characters": [
+                {
+                    "preferred": 1,
+                    "class": "?",
+                    "build": "?",
+                    "name": "?"
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "name": "Fly",
+            "discordID": "emb#3542",            
+            "days": {
+                "saturday": true,
+                "sunday": true
+            },
+            "characters": [
+                {
+                    "preferred": 1,
+                    "class": "?",
+                    "build": "?",
+                    "name": "?"
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "name": "Frost",
+            "discordID": "Frost#9110",            
+            "days": {
+                "saturday": true,
+                "sunday": true
+            },
+            "characters": [
+                {
+                    "preferred": 1,
+                    "class": "?",
+                    "build": "?",
+                    "name": "?"
+                }
+            ]
+        },
+        {
+            "id": 14,
+            "name": "Holly",
+            "discordID": "Holly#7239",            
+            "days": {
+                "saturday": false,
+                "sunday": true
+            },
+            "characters": [
+                {
+                    "preferred": 1,
+                    "class": "?",
+                    "build": "?",
+                    "name": "?"
+                }
+            ]
+        },
+        {
+            "id": 15,
+            "name": "Holy-Magican",
+            "discordID": "Holy-Magican#3276",            
+            "days": {
+                "saturday": true,
+                "sunday": true
+            },
+            "characters": [
+                {
+                    "preferred": 1,
+                    "class": "?",
+                    "build": "?",
+                    "name": "?"
+                }
+            ]
+        },
+        {
+            "id": 16,
+            "name": "Hund",
+            "discordID": "HellHound#4594",            
+            "days": {
+                "saturday": true,
+                "sunday": true
+            },
+            "characters": [
+                {
+                    "preferred": 1,
+                    "class": "?",
+                    "build": "?",
+                    "name": "?"
+                }
+            ]
+        },
+        {
+            "id": 17,
+            "name": "Janet",
+            "discordID": "Janet#2548",            
+            "days": {
+                "saturday": true,
+                "sunday": true
+            },
+            "characters": [
+                {
+                    "preferred": 1,
+                    "class": "?",
+                    "build": "?",
+                    "name": "?"
+                }
+            ]
+        },
+        {
+            "id": 18,
+            "name": "Jaypie",
+            "discordID": "Jaypie#0618",            
+            "days": {
+                "saturday": true,
+                "sunday": true
+            },
+            "characters": [
+                {
+                    "preferred": 1,
+                    "class": "?",
+                    "build": "?",
+                    "name": "?"
+                }
+            ]
+        },
+        {
+            "id": 19,
+            "name": "Jindo",
+            "discordID": "Jindo#0595",            
+            "days": {
+                "saturday": true,
+                "sunday": true
+            },
+            "characters": [
+                {
+                    "preferred": 1,
+                    "class": "?",
+                    "build": "?",
+                    "name": "?"
+                }
+            ]
+        },
+        {
+            "id": 20,
+            "name": "Joris - Jad",
+            "discordID": "Susann#0957",            
+            "days": {
+                "saturday": false,
+                "sunday": true
+            },
+            "characters": [
+                {
+                    "preferred": 1,
+                    "class": "?",
+                    "build": "?",
+                    "name": "?"
+                }
+            ]
+        }
+    ]
+}

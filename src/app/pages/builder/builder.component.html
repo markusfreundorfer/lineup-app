@@ -1,0 +1,45 @@
+<div class="example-container">
+  <h2>Players</h2>
+
+  <mat-checkbox>Saturday players</mat-checkbox>
+  <br>
+  <br>
+
+
+  <div cdkDropList #playerList="cdkDropList" [cdkDropListData]="players"
+    [cdkDropListConnectedTo]="[partyList, partyList, party2List, party3List]" class="example-list"
+    (cdkDropListDropped)="drop($event)">
+    <div class="example-box" *ngFor="let player of players" cdkDrag>
+      <app-list-item [player]=player></app-list-item>
+    </div>
+  </div>
+</div>
+
+<div class="example-container">
+  <h2>Party 1</h2>
+
+  <div cdkDropList #partyList="cdkDropList" [cdkDropListData]="party1"
+    [cdkDropListConnectedTo]="[playerList, party2List, party3List]" class="example-list"
+    (cdkDropListDropped)="drop($event)">
+    <div class="example-box" *ngFor="let player of party1" cdkDrag>{{player.name}}</div>
+  </div>
+</div>
+
+<div class="example-container">
+  <h2>Party 2</h2>
+
+  <div cdkDropList #party2List="cdkDropList" [cdkDropListData]="party2"
+    [cdkDropListConnectedTo]="[playerList, partyList, partyList, party3List]" class="example-list"
+    (cdkDropListDropped)="drop($event)">
+    <div class="example-box" *ngFor="let player of party2" cdkDrag>{{player.name}}</div>
+  </div>
+</div>
+<div class="example-container">
+  <h2>Party 3</h2>
+
+  <div cdkDropList #party3List="cdkDropList" [cdkDropListData]="party3"
+    [cdkDropListConnectedTo]="[playerList, partyList, partyList, party2List]" class="example-list"
+    (cdkDropListDropped)="drop($event)">
+    <div class="example-box" *ngFor="let player of party3" cdkDrag>{{player.name}}</div>
+  </div>
+</div>
